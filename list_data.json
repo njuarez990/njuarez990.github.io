@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"villagers": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Punchy",
+			"Type": "Lazy Cat Villager",
+			"Cuteness Rating": "11/10 lazy boy",
+			"Birthday": "April 11th"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Goldie",
+			"Type": "Normal Dog Villager",
+			"Cuteness Rating": "10/10 friendly gal",
+			"Birthday": "December 27th"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Marshal",
+			"Type": "Smug Squirrel Villager",
+			"Cuteness Rating": "11/10 sing-song guy",
+			"Birthday": "September 29th"
 		}
 	]
 }
